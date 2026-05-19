@@ -1,8 +1,8 @@
-# Side projects — learning log
+# 43030 — side projects learning log
 
-One documentation repository for professional development applied to personal side projects. **Application source code** stays in separate product repos (no coursework labels on those READMEs).
+Documentation for professional development applied to personal side projects (**43030 Professional Practice in Computing**). Application source code stays in separate product repos (no coursework labels on those READMEs).
 
-**GitHub:** [LouisLi1020/sunishop-learning-log](https://github.com/LouisLi1020/sunishop-learning-log) — *optional: rename this repo to `learning-log` in GitHub Settings.*
+**Repository:** https://github.com/LouisLi1020/43030-learning-log
 
 ## Index (goals → evidence)
 
@@ -17,13 +17,13 @@ One documentation repository for professional development applied to personal si
 
 ```
 docs/
-  reflections/     # G1 written work
-  sunishop/        # G2, G3, G4 (MERN)
-  rebo/            # G4 (Flutter)
-  cake/            # G2 baseline (RBAC)
+  reflections/     # G1
+  sunishop/        # G2, G3, G4
+  rebo/            # G4
+  cake/            # G2 baseline
 ```
 
-## Related application repos
+## Application repos
 
 | Project | Repo |
 |---------|------|
