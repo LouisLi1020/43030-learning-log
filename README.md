@@ -1,23 +1,32 @@
-# SUNishop — learning log
+# Side projects — learning log
 
-Engineering notes and evidence for professional development applied to **[SUNi — Make Your Day Shining](https://github.com/LouisLi1020/SUNi-Make-Your-Day-Shining)** (personal MERN e-commerce side project).
+One documentation repository for professional development applied to personal side projects. **Application source code** stays in separate product repos (no coursework labels on those READMEs).
 
-This repository does **not** contain the application source. It documents security, CI/CD, and architecture work so the main repo README can stay product-focused.
+**GitHub:** [LouisLi1020/sunishop-learning-log](https://github.com/LouisLi1020/sunishop-learning-log) — *optional: rename this repo to `learning-log` in GitHub Settings.*
 
-## Contents
+## Index (goals → evidence)
 
-| Document | Topic |
-|----------|--------|
-| [docs/security.md](docs/security.md) | Secure SDLC, OWASP-style mitigations |
-| [docs/ci-and-testing.md](docs/ci-and-testing.md) | GitHub Actions workflow (reference) |
-| [docs/architecture.md](docs/architecture.md) | System design and trade-offs |
-| [docs/deployment.md](docs/deployment.md) | AWS history, local run, paused hosting |
+| Goal | Evidence | Application repo |
+|------|----------|------------------|
+| **G1** Ethics & Indigenous | [reflection](docs/reflections/G1-ethics-indigenous-reflection.md) | — |
+| **G2** Cybersecurity | [SUNishop security](docs/sunishop/security.md) · [CAKE RBAC (prior)](docs/cake/rbac-and-security.md) | [SUNishop](https://github.com/LouisLi1020/SUNi-Make-Your-Day-Shining) · [CAKE](https://github.com/LouisLi1020/CAKE-Making-Every-Task-a-Piece-of-Cake.) |
+| **G3** Software tools / CI | [CI & testing](docs/sunishop/ci-and-testing.md) · [workflow template](docs/sunishop/ci-workflow.yml) | SUNishop |
+| **G4** System design / cloud | [SUNishop architecture](docs/sunishop/architecture.md) · [deployment](docs/sunishop/deployment.md) · [REBO multi-platform](docs/rebo/architecture.md) | [SUNishop](https://github.com/LouisLi1020/SUNi-Make-Your-Day-Shining) · [REBO](https://github.com/LouisLi1020/REBO) |
 
-## Stack (reference)
+## Folder layout
 
-React · TypeScript · Node · Express · MongoDB · Docker
+```
+docs/
+  reflections/     # G1 written work
+  sunishop/        # G2, G3, G4 (MERN)
+  rebo/            # G4 (Flutter)
+  cake/            # G2 baseline (RBAC)
+```
 
-## Related projects
+## Related application repos
 
-- [REBO learning log](https://github.com/LouisLi1020/rebo-learning-log) — multi-platform Flutter
-- [CAKE learning log](https://github.com/LouisLi1020/cake-learning-log) — task/CRM RBAC baseline
+| Project | Repo |
+|---------|------|
+| SUNishop | [SUNi-Make-Your-Day-Shining](https://github.com/LouisLi1020/SUNi-Make-Your-Day-Shining) |
+| REBO | [REBO](https://github.com/LouisLi1020/REBO) |
+| CAKE | [CAKE-Making-Every-Task-a-Piece-of-Cake.](https://github.com/LouisLi1020/CAKE-Making-Every-Task-a-Piece-of-Cake.) |

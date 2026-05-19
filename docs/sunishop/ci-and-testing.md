@@ -14,7 +14,7 @@ On each push/PR to the application repository:
 
 ## Workflow reference
 
-See `ci-workflow.yml` in this folder for a GitHub Actions template aligned with the MERN layout (`server/`, `client/`).
+See [ci-workflow.yml](ci-workflow.yml) in this folder for a GitHub Actions template aligned with the MERN layout (`server/`, `client/`).
 
 ## Evidence for reviewers
 
