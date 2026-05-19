@@ -20,8 +20,8 @@
 ## Progress snapshot (Autumn 2026)
 
 - Started **2026-01-12**; cadence ~2 problems/week
-- Per-problem notes in **[journal/](https://github.com/LouisLi1020/leetcode-learning-log/tree/main/journal)** (aligned with [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/))
-- Weekly log from [week-01](https://github.com/LouisLi1020/leetcode-learning-log/blob/main/journal/week-01-2026-01-12.md) onward
+- Primary evidence: **[journal/](https://github.com/LouisLi1020/leetcode-learning-log/tree/main/journal)** — weekly logs with per-problem notes (aligned with [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/))
+- Published on GitHub: [week-01](https://github.com/LouisLi1020/leetcode-learning-log/blob/main/journal/week-01-2026-01-12.md) through [week-18](https://github.com/LouisLi1020/leetcode-learning-log/blob/main/journal/week-18-2026-05-11.md); practice continues
 
 ## Activities
 
