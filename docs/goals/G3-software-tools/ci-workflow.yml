@@ -1,4 +1,4 @@
-# Reference workflow — canonical copy: docs/goals/G3-software-tools/ci-workflow.yml
+# Reference workflow — copy to application repo as .github/workflows/ci.yml
 
 name: CI
 

@@ -6,24 +6,38 @@ Documentation for professional development applied to personal side projects (**
 
 ## Index (goals → evidence)
 
-| Goal | Evidence | Application repo |
-|------|----------|------------------|
-| **G1** Ethics & Indigenous | [reflection](docs/reflections/G1-ethics-indigenous-reflection.md) | — |
-| **G2** Cybersecurity | [SUNishop security](docs/sunishop/security.md) · [CAKE RBAC (prior)](docs/cake/rbac-and-security.md) | [SUNishop](https://github.com/LouisLi1020/SUNi-Make-Your-Day-Shining) · [CAKE](https://github.com/LouisLi1020/CAKE-Making-Every-Task-a-Piece-of-Cake.) |
-| **G3** Software tools / CI | [CI & testing](docs/sunishop/ci-and-testing.md) · [workflow template](docs/sunishop/ci-workflow.yml) | SUNishop |
-| **G4** System design / cloud | [G4 external courses](docs/g4-external-learning.md) · [architecture](docs/sunishop/architecture.md) · [REBO](docs/rebo/architecture.md) | SUNishop · REBO |
-| **G5** DSA (ongoing) | [practice log](docs/dsa/g5-ongoing-practice.md) | — |
+| Goal | Folder | Application repo |
+|------|--------|------------------|
+| **G1** Ethics & Indigenous | [docs/goals/G1-ethics-indigenous/](docs/goals/G1-ethics-indigenous/) | — |
+| **G2** Cybersecurity | [docs/goals/G2-cybersecurity/](docs/goals/G2-cybersecurity/) | [SUNishop](https://github.com/LouisLi1020/SUNi-Make-Your-Day-Shining) · [CAKE](https://github.com/LouisLi1020/CAKE-Making-Every-Task-a-Piece-of-Cake.) |
+| **G3** Software tools / CI | [docs/goals/G3-software-tools/](docs/goals/G3-software-tools/) | SUNishop |
+| **G4** System design / cloud | [docs/goals/G4-system-design-cloud/](docs/goals/G4-system-design-cloud/) | SUNishop · [REBO](https://github.com/LouisLi1020/REBO) |
+| **G5** DSA (ongoing) | [docs/goals/G5-dsa-interview/](docs/goals/G5-dsa-interview/) | — |
+
+**Full goals index:** [docs/goals/README.md](docs/goals/README.md)
+
+## Projects (what was built — stack & learnings)
+
+| Project | Profile |
+|---------|---------|
+| **SUNishop** | [docs/projects/sunishop.md](docs/projects/sunishop.md) — MERN e-commerce; G2 security, G3 CI, G4 architecture |
+| **REBO** | [docs/projects/rebo.md](docs/projects/rebo.md) — Flutter multi-platform (G4) |
+| **CAKE** | [docs/projects/cake.md](docs/projects/cake.md) — prior RBAC baseline (G2) |
 
 ## Folder layout
 
 ```
 docs/
-  reflections/     # G1
-  sunishop/        # G2, G3, G4
-  rebo/            # G4
-  cake/            # G2 baseline
-  g4-external-learning.md
-  dsa/             # G5 ongoing
+  goals/           # G1–G5 evidence (primary)
+    G1-ethics-indigenous/
+    G2-cybersecurity/
+    G3-software-tools/
+    G4-system-design-cloud/
+    G5-dsa-interview/   # includes leetcode/
+  projects/        # per-app stack, implementations, learnings
+  reflections/   # redirect → G1
+  sunishop/      # redirect → G2–G4
+  …              # legacy paths point to goals/
 ```
 
 ## Application repos
