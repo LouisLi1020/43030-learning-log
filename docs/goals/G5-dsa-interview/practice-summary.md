@@ -20,8 +20,8 @@
 ## Progress snapshot (Autumn 2026)
 
 - Started **2026-01-12**; cadence ~2 problems/week
-- **11 / 150** problems with full notes (arrays, two pointers, greedy, bucket sort, …)
-- Each topic has per-problem stubs under `study-plan/*/notes/` for ongoing fill-in
+- **150 / 150** problems indexed with notes in [study-plan/](https://github.com/LouisLi1020/leetcode-learning-log/tree/main/study-plan) (Top Interview 150)
+- Detailed personal journal: [journal/week-01-2026-01-12.md](https://github.com/LouisLi1020/leetcode-learning-log/blob/main/journal/week-01-2026-01-12.md) and following weeks
 
 ## Activities
 
