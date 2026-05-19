@@ -13,15 +13,15 @@
 | Item | Link |
 |------|------|
 | Study plan | [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) |
-| Full checklist (150 problems) | [study-plan/README.md](https://github.com/LouisLi1020/leetcode-learning-log/blob/main/study-plan/README.md) |
+| Journal index | [journal/README.md](https://github.com/LouisLi1020/leetcode-learning-log/blob/main/journal/README.md) |
 | Detailed journal | [journal/week-01-2026-01-12.md](https://github.com/LouisLi1020/leetcode-learning-log/blob/main/journal/week-01-2026-01-12.md) |
 | Six-month roadmap | [plan/180-day-plan.md](https://github.com/LouisLi1020/leetcode-learning-log/blob/main/plan/180-day-plan.md) |
 
 ## Progress snapshot (Autumn 2026)
 
 - Started **2026-01-12**; cadence ~2 problems/week
-- **150 / 150** problems indexed with notes in [study-plan/](https://github.com/LouisLi1020/leetcode-learning-log/tree/main/study-plan) (Top Interview 150)
-- Detailed personal journal: [journal/week-01-2026-01-12.md](https://github.com/LouisLi1020/leetcode-learning-log/blob/main/journal/week-01-2026-01-12.md) and following weeks
+- Per-problem notes in **[journal/](https://github.com/LouisLi1020/leetcode-learning-log/tree/main/journal)** (week-01–18 on GitHub; aligns with [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/))
+- Weekly log from [week-01](https://github.com/LouisLi1020/leetcode-learning-log/blob/main/journal/week-01-2026-01-12.md) onward
 
 ## Activities
 
